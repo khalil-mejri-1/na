@@ -11,7 +11,7 @@ function Vendanges() {
 
   useEffect(() => {
     // جلب البيانات من API
-    axios.get('http://localhost:3000/vendanges') 
+    axios.get('https://na-service.onrender.com/vendanges') 
       .then(response => {
         setImages(response.data); // تخزين البيانات في الحالة
       })
