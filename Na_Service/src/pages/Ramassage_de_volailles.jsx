@@ -10,7 +10,7 @@ function Ramassage_de_volailles() {
 
   useEffect(() => {
     // جلب البيانات من API
-    axios.get('http://localhost:3000/ramassage-de-volailles') // تأكد من أن هذا هو عنوان API الصحيح
+    axios.get('https://na-service.onrender.com/ramassage-de-volailles') // تأكد من أن هذا هو عنوان API الصحيح
       .then(response => {
         setImages(response.data); // تخزين البيانات في الحالة
       })
