@@ -12,7 +12,7 @@ function nettoyage_et_desinfection() {
 
   useEffect(() => {
     // جلب البيانات من API
-    axios.get('http://localhost:3000/nettoyage-et-desinfection')
+    axios.get('https://na-service.onrender.com/nettoyage-et-desinfection')
       .then(response => {
         setImages(response.data); // تخزين البيانات في الحالة
       })
