@@ -9,7 +9,7 @@ function PrestationsViticoles_admin() {
 
   useEffect(() => {
     // جلب الصور من API
-    axios.get('http://localhost:3000/prestations-viticoles')
+    axios.get('https://na-service.onrender.com/prestations-viticoles')
       .then(response => {
         setImages(response.data);
       })
