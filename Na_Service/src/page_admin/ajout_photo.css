@@ -1,0 +1,67 @@
+.bloc_selekt{
+  border: transparent solid;
+}
+.select{
+  position: relative;
+  border:  rgb(233, 233, 233) solid 1px;
+  width:100%;
+  
+  padding: 10px;
+  font-size: 20px;
+}
+
+.custom-offcanvas{
+  width: 700px;
+}
+
+html {
+  font-size: 14px;
+}
+
+
+.custom-treeselect-panel {
+  z-index: 1050 !important; /* تأكد من أن القيمة أعلى من النوافذ الأخرى */
+  position: relative !important;
+}
+
+body {
+  font-family: var(--font-family);
+  font-weight: normal;
+  background: var(--surface-ground);
+  color: var(--text-color);
+  padding: 1rem;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.card {
+  background: var(--surface-card);
+  padding: 2rem;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+.justify-content-center{
+  border:  transparent solid;
+  width: 200px;
+  position: relative;
+  left: -10px;
+}
+
+.p-treeselect-close{
+  background-color:transparent;
+  
+  margin-left: 10px;
+  padding-left: 10px;
+  position: relative;
+  top: -5px;
+  background-image: url(../img/cos.png);
+
+  width:2px;
+  }
+
+button{
+  
+  position: relative;
+  top: -5px;
+
+}

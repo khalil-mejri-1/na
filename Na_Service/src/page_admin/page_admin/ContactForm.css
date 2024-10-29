@@ -1,0 +1,123 @@
+/* هيكل الصفحة */
+.contact-container {
+  width: 100%;
+  position: relative;
+  top: 10px;
+  margin: 0 auto;
+
+}
+
+h1 {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.form-wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.contact-form, .contact-info {
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  border: rgb(216, 216, 216) solid 1px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  width: 48%;
+}
+
+
+.contact-form h2, .contact-info h2 {
+  margin-bottom: 10px;
+}
+
+.contact-form p {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+button {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #333;
+}
+
+/* تصميم placeholder للخريطة */
+.map-placeholder {
+  background-color: #ffffff;
+  height: 350px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ddd;
+}
+
+.map-placeholder img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.contact-info-container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.contact-details {
+  list-style-type: none;
+  padding-left: 0;
+  margin-bottom: 20px;
+}
+
+.contact-details li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.contact-details li i {
+  margin-right: 10px;
+  font-size: 18px;
+}
+
+.social-icons {
+  display: flex;
+  gap: 10px;
+}
+
+.social-icons i {
+  font-size: 24px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.social-icons i:hover {
+  color: #555;
+}

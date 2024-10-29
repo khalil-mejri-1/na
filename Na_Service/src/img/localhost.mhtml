@@ -1,0 +1,1117 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: chrome-error://chromewebdata/
+Subject: localhost
+Date: Thu, 24 Oct 2024 16:36:32 +0100
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--kbDVWtIAwSuSzREQHEVEJKEmUUUxcGUheb4iM2AuIc----"
+
+
+------MultipartBoundary--kbDVWtIAwSuSzREQHEVEJKEmUUUxcGUheb4iM2AuIc----
+Content-Type: text/html
+Content-ID: <frame-9058DDB8CE2C1F7922E79164094F3BE4@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-error://chromewebdata/
+
+<!DOCTYPE html><html dir=3D"ltr" lang=3D"en" class=3D"gx dark-theme" style=
+=3D"--palette-active_blue_dark: hsla(199, 100%, 79%, 1); --palette-active_b=
+lue_dark-values: 199 100% 79.41176891326904%; --palette-active_blue_dark-rg=
+b: 150 222 255; --palette-blue: hsla(225, 100%, 31%, 1); --palette-blue-val=
+ues: 225 100% 30.588236451148987%; --palette-blue-rgb: 0 39 156; --palette-=
+cashback_green: hsla(143, 76%, 53%, 1); --palette-cashback_green-values: 14=
+3 75.83333849906921% 52.941179275512695%; --palette-cashback_green-rgb: 44 =
+226 114; --palette-cashback_green_l_60: hsla(142, 68%, 32%, 1); --palette-c=
+ashback_green_l_60-values: 142 67.90123581886292% 31.76470696926117%; --pal=
+ette-cashback_green_l_60-rgb: 26 136 67; --palette-cashback_yellow: hsla(47=
+, 100%, 50%, 1); --palette-cashback_yellow-values: 47 100% 50%; --palette-c=
+ashback_yellow-rgb: 255 200 0; --palette-cashback_yellow_l_60: hsla(47, 100=
+%, 30%, 1); --palette-cashback_yellow_l_60-values: 47 100% 30.0000011920928=
+96%; --palette-cashback_yellow_l_60-rgb: 153 120 0; --palette-component_han=
+dle_0: hsla(252, 100%, 56%, 1); --palette-component_handle_0-values: 252 10=
+0% 56.47059082984924%; --palette-component_handle_0-rgb: 77 33 255; --palet=
+te-component_handle_1: hsla(352, 72%, 59%, 1); --palette-component_handle_1=
+-values: 352 72.11538553237915% 59.215688705444336%; --palette-component_ha=
+ndle_1-rgb: 226 76 96; --palette-component_handle_2: hsla(24, 84%, 62%, 1);=
+ --palette-component_handle_2-values: 24 83.67347121238708% 61.568629741668=
+7%; --palette-component_handle_2-rgb: 239 141 75; --palette-component_handl=
+e_3: hsla(39, 78%, 69%, 1); --palette-component_handle_3-values: 39 78.2051=
+3248443604% 69.41176652908325%; --palette-component_handle_3-rgb: 238 195 1=
+16; --palette-component_handle_4: hsla(155, 45%, 55%, 1); --palette-compone=
+nt_handle_4-values: 155 45.21738886833191% 54.90196347236633%; --palette-co=
+mponent_handle_4-rgb: 88 192 149; --palette-component_handle_5: hsla(191, 5=
+3%, 66%, 1); --palette-component_handle_5-values: 191 53.48837375640869% 66=
+.27451181411743%; --palette-component_handle_5-rgb: 123 198 215; --palette-=
+component_handle_6: hsla(217, 92%, 57%, 1); --palette-component_handle_6-va=
+lues: 217 91.74312353134155% 57.2549045085907%; --palette-component_handle_=
+6-rgb: 46 123 246; --palette-component_handle_7: hsla(269, 62%, 67%, 1); --=
+palette-component_handle_7-values: 269 61.676645278930664% 67.2549009323120=
+1%; --palette-component_handle_7-rgb: 170 120 223; --palette-default_light_=
+blue: hsla(209, 92%, 60%, 1); --palette-default_light_blue-values: 209 92.1=
+9512343406677% 59.80392098426819%; --palette-default_light_blue-rgb: 58 156=
+ 247; --palette-discord_blue: hsla(234, 86%, 65%, 1); --palette-discord_blu=
+e-values: 234 85.5555534362793% 64.70588445663452%; --palette-discord_blue-=
+rgb: 88 103 242; --palette-green: hsla(139, 33%, 56%, 1); --palette-green-v=
+alues: 139 33.03571343421936% 56.078433990478516%; --palette-green-rgb: 106=
+ 180 130; --palette-gx_gray: hsla(0, 0%, 90%, 1); --palette-gx_gray-values:=
+ 0 0% 90.19607901573181%; --palette-gx_gray-rgb: 230 230 230; --palette-gx_=
+gray_10: hsla(0, 0%, 10%, 1); --palette-gx_gray_10-values: 0 0% 10.19607856=
+8696976%; --palette-gx_gray_10-rgb: 26 26 26; --palette-gx_gray_16: hsla(0,=
+ 0%, 16%, 1); --palette-gx_gray_16-values: 0 0% 16.07843190431595%; --palet=
+te-gx_gray_16-rgb: 41 41 41; --palette-gx_gray_20: hsla(0, 0%, 20%, 1); --p=
+alette-gx_gray_20-values: 0 0% 20.000000298023224%; --palette-gx_gray_20-rg=
+b: 51 51 51; --palette-gx_gray_30: hsla(0, 0%, 30%, 1); --palette-gx_gray_3=
+0-values: 0 0% 30.19607961177826%; --palette-gx_gray_30-rgb: 77 77 77; --pa=
+lette-gx_gray_40: hsla(0, 0%, 40%, 1); --palette-gx_gray_40-values: 0 0% 40=
+.00000059604645%; --palette-gx_gray_40-rgb: 102 102 102; --palette-gx_gray_=
+50: hsla(0, 0%, 50%, 1); --palette-gx_gray_50-values: 0 0% 50.1960813999176=
+%; --palette-gx_gray_50-rgb: 128 128 128; --palette-gx_gray_60: hsla(0, 0%,=
+ 60%, 1); --palette-gx_gray_60-values: 0 0% 60.00000238418579%; --palette-g=
+x_gray_60-rgb: 153 153 153; --palette-gx_gray_70: hsla(0, 0%, 70%, 1); --pa=
+lette-gx_gray_70-values: 0 0% 70.1960802078247%; --palette-gx_gray_70-rgb: =
+179 179 179; --palette-gx_gray_80: hsla(0, 0%, 80%, 1); --palette-gx_gray_8=
+0-values: 0 0% 80.0000011920929%; --palette-gx_gray_80-rgb: 204 204 204; --=
+palette-gx_gray_90: hsla(0, 0%, 90%, 1); --palette-gx_gray_90-values: 0 0% =
+90.19607901573181%; --palette-gx_gray_90-rgb: 230 230 230; --palette-gx_sec=
+ondary_base: hsla(229, 41%, 16%, 1); --palette-gx_secondary_base-values: 22=
+9 40.740737318992615% 15.882353484630585%; --palette-gx_secondary_base-rgb:=
+ 24 30 57; --palette-gx_warning_red: hsla(0, 100%, 50%, 1); --palette-gx_wa=
+rning_red-values: 0 100% 50%; --palette-gx_warning_red-rgb: 255 0 0; --pale=
+tte-gx_warning_red_l_120: hsla(0, 100%, 60%, 1); --palette-gx_warning_red_l=
+_120-values: 0 100% 60.00000238418579%; --palette-gx_warning_red_l_120-rgb:=
+ 255 51 51; --palette-gx_warning_red_l_140: hsla(0, 100%, 70%, 1); --palett=
+e-gx_warning_red_l_140-values: 0 100% 69.9999988079071%; --palette-gx_warni=
+ng_red_l_140-rgb: 255 102 102; --palette-gx_warning_yellow: hsla(47, 100%, =
+60%, 1); --palette-gx_warning_yellow-values: 47 100% 60.00000238418579%; --=
+palette-gx_warning_yellow-rgb: 255 211 51; --palette-gx_warning_yellow_l_12=
+0: hsla(47, 100%, 68%, 1); --palette-gx_warning_yellow_l_120-values: 47 100=
+% 68.03921461105347%; --palette-gx_warning_yellow_l_120-rgb: 255 220 92; --=
+palette-gx_warning_yellow_l_140: hsla(47, 100%, 76%, 1); --palette-gx_warni=
+ng_yellow_l_140-values: 47 100% 76.07843279838562%; --palette-gx_warning_ye=
+llow_l_140-rgb: 255 229 133; --palette-light_blue: hsla(206, 91%, 78%, 1); =
+--palette-light_blue-values: 206 91.15045666694641% 77.84314155578613%; --p=
+alette-light_blue-rgb: 147 205 250; --palette-light_grey: hsla(0, 0%, 90%, =
+1); --palette-light_grey-values: 0 0% 90.19607901573181%; --palette-light_g=
+rey-rgb: 230 230 230; --palette-picture_in_picture_red: hsla(2, 73%, 61%, 1=
+); --palette-picture_in_picture_red-values: 2 72.99998998641968% 60.7843160=
+62927246%; --palette-picture_in_picture_red-rgb: 228 87 82; --palette-pink:=
+ hsla(350, 87%, 76%, 1); --palette-pink-values: 350 86.8852436542511% 76.07=
+843279838562%; --palette-pink-rgb: 247 141 158; --palette-purple: hsla(279,=
+ 34%, 75%, 1); --palette-purple-values: 279 34.375% 74.90196228027344%; --p=
+alette-purple-rgb: 198 169 213; --palette-star_dust: hsla(60, 7%, 60%, 1); =
+--palette-star_dust-values: 60 7.389162480831146% 60.196077823638916%; --pa=
+lette-star_dust-rgb: 161 161 146; --palette-teal: hsla(186, 44%, 56%, 1); -=
+-palette-teal-values: 186 43.99999976158142% 55.88235259056091%; --palette-=
+teal-rgb: 93 182 192; --palette-undefined: hsla(119, 100%, 50%, 1); --palet=
+te-undefined-values: 119 100% 50%; --palette-undefined-rgb: 4 255 0; --pale=
+tte-win_red: hsla(352, 99%, 41%, 1); --palette-win_red-values: 352 99.04305=
+934906006% 40.98039269447327%; --palette-win_red-rgb: 208 1 29; --palette-w=
+in_red_muted: hsla(352, 99%, 36%, 1); --palette-win_red_muted-values: 352 9=
+8.91892075538635% 36.274510622024536%; --palette-win_red_muted-rgb: 184 1 2=
+5; --opera-gx-highlight: hsla(49, 41%, 65%, 1); --opera-gx-font-color: whit=
+e;"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-eea3a7=
+32-b6ec-4d3b-ba33-807b197e14d3@mhtml.blink" /><link rel=3D"stylesheet" type=
+=3D"text/css" href=3D"cid:css-5d695b9b-bbab-4ff9-9686-86c8411cbc09@mhtml.bl=
+ink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-30276b17-=
+0405-44dd-8f4b-867ff23fd9c8@mhtml.blink" /><link rel=3D"stylesheet" type=3D=
+"text/css" href=3D"cid:css-83be62f6-7610-4cc2-9fe5-db07cc706cfc@mhtml.blink=
+" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-58ebb383-d4d=
+e-46a2-b45f-4529e5afa81f@mhtml.blink" /><link rel=3D"stylesheet" type=3D"te=
+xt/css" href=3D"cid:css-82f2a30e-cae4-4034-a1b5-67368c868220@mhtml.blink" /=
+><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-56040482-0722-4=
+5b1-9c7d-acf3f8c2e1b9@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-3fa1bfb0-ea15-4a1d-a196-9fe554363b49@mhtml.blink" />
+ =20
+  <meta name=3D"color-scheme" content=3D"light dark">
+  <meta name=3D"theme-color" content=3D"#fff">
+  <title>localhost</title>
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+   =20
+ =20
+ =20
+ =20
+ =20
+ =20
+   =20
+   =20
+   =20
+   =20
+     =20
+   =20
+ =20
+</head>
+<body class=3D"neterror" jstcache=3D"0">
+  =20
+    <svg id=3D"corner-topright" class=3D"corner topright game-hidden" width=
+=3D"693" height=3D"468" viewBox=3D"0 0 693 468" fill=3D"none" xmlns=3D"http=
+://www.w3.org/2000/svg" jstcache=3D"0">
+      <path class=3D"stroke" d=3D"M1100.66 467.385L1385.39 -346.279L692.99 =
+-866.375L0.592529 -346.279L285.323 467.385H1100.66Z" jstcache=3D"0"></path>
+      <path class=3D"stroke" d=3D"M981.573 320.483L1183.13 -256.8L692.99 -6=
+25.797L202.848 -256.8L404.408 320.483H981.573Z" jstcache=3D"0"></path>
+      <path class=3D"stroke" d=3D"M905.108 231.066L1053.26 -192.96L692.99 -=
+463.992L332.717 -192.96L480.873 231.066H905.108Z" jstcache=3D"0"></path>
+      <path class=3D"stroke" d=3D"M841.178 126.744L944.685 -170L692.991 -35=
+9.671L441.296 -170L544.803 126.744H841.178Z" jstcache=3D"0"></path>
+      <path class=3D"stroke" d=3D"M799.811 58.616L874.427 -155.005L692.99 -=
+291.544L511.553 -155.005L586.168 58.616H799.811Z" jstcache=3D"0"></path>
+      <path class=3D"stroke" d=3D"M799.811 58.616L874.427 -155.005L692.99 -=
+291.544L511.553 -155.005L586.168 58.616H799.811Z" jstcache=3D"0"></path>
+    </svg>
+    <svg id=3D"corner-btmleft" class=3D"corner btmleft game-hidden" width=
+=3D"454" height=3D"481" viewBox=3D"0 0 454 481" fill=3D"none" xmlns=3D"http=
+://www.w3.org/2000/svg" jstcache=3D"0">
+      <g id=3D"Shapes" jstcache=3D"0">
+      <path class=3D"stroke" d=3D"M265.199 880.385L453.01 343.683L-3.69885 =
+0.625345L-460.407 343.683L-272.596 880.385H265.199Z" jstcache=3D"0"></path>
+      <path class=3D"stroke" d=3D"M186.615 783.445L319.543 402.73L-3.69827 =
+159.382L-326.94 402.73L-194.012 783.445H186.615Z" jstcache=3D"0"></path>
+      <path class=3D"stroke" d=3D"M136.156 724.439L233.843 444.857L-3.69838=
+ 266.156L-241.24 444.857L-143.553 724.439H136.156Z" jstcache=3D"0"></path>
+      <path class=3D"stroke" d=3D"M93.9687 655.598L162.192 460.009L-3.69882=
+ 334.997L-169.59 460.009L-101.366 655.598H93.9687Z" jstcache=3D"0"></path>
+      <path class=3D"stroke" d=3D"M66.6715 610.64L115.829 469.904L-3.69878 =
+379.954L-123.227 469.904L-74.069 610.64H66.6715Z" jstcache=3D"0"></path>
+      <path class=3D"stroke" d=3D"M66.6715 610.64L115.829 469.904L-3.69878 =
+379.954L-123.227 469.904L-74.069 610.64H66.6715Z" jstcache=3D"0"></path>
+      <path class=3D"stroke" d=3D"M40.2019 567.088L70.872 479.49L-3.69837 4=
+23.506L-78.2688 479.49L-47.5986 567.088H40.2019Z" jstcache=3D"0"></path>
+      <path class=3D"stroke" d=3D"M28.6196 548.824L51.205 483.508L-3.69843 =
+441.773L-58.6019 483.508L-36.0165 548.824H28.6196Z" jstcache=3D"0"></path>
+      </g>
+    </svg>
+ =20
+  <div class=3D"content" jstcache=3D"0">
+    <div id=3D"animation" class=3D"animation" style=3D"display:none;" jstca=
+che=3D"0"></div>
+    <div id=3D"illustration" class=3D"illustration" style=3D"display:block"=
+ jstcache=3D"0">
+     =20
+        <img src=3D"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODIiIGhlaWdod=
+D0iODIiIHZpZXdCb3g9IjAgMCA4MiA4MiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cu=
+dzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV=
+2ZW5vZGQiIGQ9Ik01MS4xMjM4IDcyLjE3OEM1Ni4wOTQ1IDcyLjE3OCA2MC45Njc1IDcwLjY5NT=
+UgNjUuMjMwMSA2Ny44OTgzQzcyLjg0MjYgNjEuMDM2NSA3Ny4yMDg1IDUxLjI0MjkgNzcuMjA4N=
+SA0MS4wMDFDNzcuMjA4NSAzMC43NiA3Mi44NDM1IDIwLjk2NzMgNjUuMjMzIDE0LjEwNTVDNjAu=
+OTY4NSAxMS4zMDY0IDU2LjA5NDUgOS44MjM5MSA1MS4xMjM4IDkuODIzOTFDNDIuOTg5MSA5Ljg=
+yMzkxIDM1LjI3NDMgMTMuNzgyMyAyOS45NTk2IDIwLjY4MzlDMjUuODI4NyAyNS41NjM2IDIzLj=
+M5NDYgMzIuNjMyIDIzLjIyNTkgNDAuMTQ2TDIzLjIyNjggNDEuODk4NkMyMy4zOTQ2IDQ5LjM2O=
+DkgMjUuODI4NyA1Ni40MzczIDI5LjkwNDYgNjEuMjQ4OEMyOS45MjM2IDYxLjI3MjUgMjkuOTQx=
+NiA2MS4yOTQzIDI5Ljk2MDUgNjEuMzE4QzM1LjI3NDMgNjguMjE5NiA0Mi45ODgyIDcyLjE3OCA=
+1MS4xMjM4IDcyLjE3OFpNNC43OTE1MSA0MS4wMDFDNC43OTE1MSA2MC4zNzM5IDE5LjkzODYgNz=
+YuMjU5NiAzOS4yNzM0IDc3LjE2NjdDNDMuMDE4NSA3Ny4zNDQ5IDQ2LjgzNjYgNzYuOTMxNyA1M=
+C40MzQ3IDc1Ljk2MUM0MS4zODM0IDc1Ljc0NDkgMzIuODcwNSA3MS4yOTI3IDI2Ljk4MjMgNjMu=
+NjY1OUMyMi4zNzI4IDU4LjIwNDIgMTkuNjIzIDUwLjI4ODQgMTkuNDM1MyA0MS45NDEzVjQwLjE=
+wMzNDMTkuNjIzIDMxLjY5NDYgMjIuMzg0MSAyMy43NjM2IDI3LjAxMDcgMTguMzAyOEMzMi44ND=
+U5IDEwLjcyMjUgNDEuMzY4MyA2LjI1NyA1MC40MzE5IDYuMDQwODhDNDcuNDI1MiA1LjIzMDQzI=
+DQ0LjMwMjkgNC44MDQ4MyA0MS4xMzYgNC43OTM0Nkw0MS4wMzU1IDQuNzkyNTFDMjEuMDM0NCA0=
+Ljc5MTU2IDQuNzkxNTEgMjEuMDM1NSA0Ljc5MTUxIDQxLjAwMVpNNDEuMTA4NSAxLjAwMTlDNTA=
+uOTQ4NSAxLjAzODg2IDYwLjM2MjggNC42NTQxMSA2Ny42NTk2IDExLjE4MzJDNzYuMTM3NCAxOC=
+43NjcyIDgxIDI5LjYzNTggODEgNDEuMDAxQzgxIDUyLjM2NzEgNzYuMTM2NCA2My4yMzU2IDY3L=
+jY1NjcgNzAuODIwNkw2Ny42NDgyIDcwLjgyNjNDNjAuMzExNiA3Ny4zODc2IDUwLjg0NyA4MSA0=
+MS4wMDA1IDgxQzQwLjM2MjYgODEgMzkuNzI4NCA4MC45ODM5IDM5LjA5ODEgODAuOTU0NUMxNy4=
+3MzM4IDc5Ljk1MjYgMSA2Mi40MDI0IDEgNDEuMDAxQzEgMTguOTQ0NSAxOC45NDQzIDEgNDEuMD=
+AwNSAxQzQxLjAxMTkgMSA0MS4wOTYyIDEuMDAwOTUgNDEuMTA4NSAxLjAwMTlaTTYwLjM4MDYgN=
+DEuMDUyMUM2MC4zODA2IDI5Ljk2NzcgNTUuNDY3MSAyMC4zODU1IDQ4LjMzMTIgMTUuODAzMUM1=
+Ny40NCAxNi41NTggNjQuNjY4NyAyNy41NzIyIDY0LjY2ODcgNDEuMDUyMUM2NC42Njg3IDU0LjU=
+zMjEgNTcuNDQgNjUuNTQ2MyA0OC4zMzEyIDY2LjMwMTJDNTUuNDY3MSA2MS43MTk3IDYwLjM4MD=
+YgNTIuMTM2NSA2MC4zODA2IDQxLjA1MjFaIiBmaWxsPSIjRkExRTRFIi8+Cjwvc3ZnPgo=3D" j=
+stcache=3D"0">
+     =20
+     =20
+    </div>
+
+    <div class=3D"description" jstcache=3D"0">
+      <h1 jstcache=3D"0">
+        <span jsselect=3D"heading" jsvalues=3D".innerHTML:msg" jstcache=3D"=
+5">This site can=E2=80=99t be reached</span>
+        <a id=3D"error-information-button" class=3D"hidden" jstcache=3D"0">=
+</a>
+      </h1>
+
+      <div class=3D"main" id=3D"errorSummary" jstcache=3D"0">
+        <p jsselect=3D"summary" jsvalues=3D".innerHTML:msg" jstcache=3D"6">=
+<strong jscontent=3D"hostName" jstcache=3D"17">localhost</strong> refused t=
+o connect.</p>
+      </div>
+
+      <!--The suggestion list and error code are normally presented inline,
+        in which case error-information-popup-* divs have no effect. When
+        error-information-popup-container has the use-popup-container class=
+, this
+        information is provided in a popup instead.-->
+      <div id=3D"error-information-popup-container" jstcache=3D"0">
+        <div id=3D"error-information-popup" jstcache=3D"0">
+          <div id=3D"error-information-popup-box" jstcache=3D"0">
+            <div id=3D"error-information-popup-content" jstcache=3D"0">
+              <div id=3D"suggestions-list" style=3D"" jsdisplay=3D"(suggest=
+ionsSummaryList &amp;&amp; suggestionsSummaryList.length)" jstcache=3D"12">
+                <h4 jsvalues=3D".innerHTML:suggestionsSummaryListHeader" js=
+tcache=3D"14">Try:</h4>
+                <ul jstcache=3D"0">
+                  <li jsselect=3D"suggestionsSummaryList" jsvalues=3D".inne=
+rHTML:summary" jstcache=3D"16" jsinstance=3D"0">Checking the connection</li=
+><li jsselect=3D"suggestionsSummaryList" jsvalues=3D".innerHTML:summary" js=
+tcache=3D"16" jsinstance=3D"*1">Checking the proxy and the firewall</li>
+                </ul>
+              </div>
+              <div class=3D"error-code" jscontent=3D"errorCode" jstcache=3D=
+"13">ERR_CONNECTION_REFUSED</div>
+              <p id=3D"error-information-popup-close" jstcache=3D"0">
+                <a class=3D"link-button" jscontent=3D"closeDescriptionPopup=
+" jstcache=3D"15">null</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class=3D"suggestions" jsselect=3D"suggestionsDetails" jstcache=
+=3D"1" jsinstance=3D"0">
+        <h4 class=3D"suggestion-header" jsvalues=3D".innerHTML:header" jstc=
+ache=3D"7">Check your internet connection.</h4>
+        <p class=3D"suggestion-body" jsvalues=3D".innerHTML:body" jstcache=
+=3D"8">Check any cables and reboot any routers, modems, or other network de=
+vices you may be using.</p>
+      </div><div class=3D"suggestions" jsselect=3D"suggestionsDetails" jstc=
+ache=3D"1" jsinstance=3D"1">
+        <h4 class=3D"suggestion-header" jsvalues=3D".innerHTML:header" jstc=
+ache=3D"7">Allow Opera to access the network in your firewall or antivirus =
+settings.</h4>
+        <p class=3D"suggestion-body" jsvalues=3D".innerHTML:body" jstcache=
+=3D"8">If it is already listed as a program allowed to access the network, =
+try
+      removing it from the list and adding it again.</p>
+      </div><div class=3D"suggestions" jsselect=3D"suggestionsDetails" jstc=
+ache=3D"1" jsinstance=3D"*2">
+        <h4 class=3D"suggestion-header" jsvalues=3D".innerHTML:header" jstc=
+ache=3D"7">If you use a proxy server=E2=80=A6</h4>
+        <p class=3D"suggestion-body" jsvalues=3D".innerHTML:body" jstcache=
+=3D"8">Check your proxy settings or contact your network administrator to m=
+ake sure the proxy server is working. If you don't believe you should be us=
+ing a proxy server: Go to the Main menu &gt; <span jscontent=3D"settingsTit=
+le" jstcache=3D"18">Settings</span> &gt; <span jscontent=3D"proxyTitle" jst=
+cache=3D"19">Change Proxy Settings=E2=80=A6</span> &gt; LAN Settings and de=
+select "Use a proxy server for your LAN".</p>
+      </div>
+
+      <div id=3D"download-links-wrapper" class=3D"hidden" jstcache=3D"0">
+        <div id=3D"download-link-wrapper" jstcache=3D"0">
+          <a id=3D"download-link" class=3D"link-button" jsselect=3D"downloa=
+dButton" jscontent=3D"msg" jsvalues=3D".disabledText:disabledMsg" jstcache=
+=3D"9" style=3D"display: none;">
+          </a>
+        </div>
+        <div id=3D"download-link-clicked-wrapper" class=3D"hidden" jstcache=
+=3D"0">
+          <div id=3D"download-link-clicked" class=3D"link-button" jsselect=
+=3D"downloadButton" jscontent=3D"disabledMsg" jstcache=3D"10" style=3D"disp=
+lay: none;">
+          </div>
+        </div>
+      </div>
+
+     =20
+      <form class=3D"web-search" jsvalues=3D"action:searchURL" jsdisplay=3D=
+"searchURL" jstcache=3D"3" style=3D"display: none;">
+        <div class=3D"web-search-inner-container" jstcache=3D"0">
+          <span class=3D"web-search-logo" jstcache=3D"0"></span>
+          <div class=3D"suggestion-input-container" jstcache=3D"0">
+            <input class=3D"web-search-input" name=3D"q" autocomplete=3D"of=
+f" autofocus=3D"" spellcheck=3D"false" jsselect=3D"summary" jsvalues=3D"val=
+ue:hostName" jstcache=3D"11">
+          </div>
+          <button type=3D"submit" class=3D"web-search-submit" i18n-content=
+=3D"searchButtonTitle" jstcache=3D"0"></button>
+        </div>
+      </form>
+     =20
+        <div id=3D"play-game-button" class=3D"btn game-hidden" jscontent=3D=
+"playGameButtonTitle" jstcache=3D"4">Play game instead</div>
+     =20
+    </div>
+  </div>
+
+
+
+</body></html>
+------MultipartBoundary--kbDVWtIAwSuSzREQHEVEJKEmUUUxcGUheb4iM2AuIc----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-eea3a732-b6ec-4d3b-ba33-807b197e14d3@mhtml.blink
+
+@charset "utf-8";
+
+:root { --font-default: menu; --font-size-default: 12px; }
+
+html, body, button, input, select, textarea { color: rgb(10, 10, 10); font-=
+style: ; font-variant: normal; font-stretch: ; font-family: ; font-optical-=
+sizing: ; font-size-adjust: ; font-kerning: ; font-feature-settings: ; font=
+-variation-settings: ; font-size: var(--font-size-default); font-weight: 40=
+0; line-height: 1.35; }
+------MultipartBoundary--kbDVWtIAwSuSzREQHEVEJKEmUUUxcGUheb4iM2AuIc----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-5d695b9b-bbab-4ff9-9686-86c8411cbc09@mhtml.blink
+
+@charset "utf-8";
+
+:root, :host { --opera-primary-color: #0199ff; --opera-primary-color-rgb: 1=
+, 153, 255; --opera-secondary-color: #0199ffa0; --opera-error-color: #f54a4=
+b; --opera-font-color: var(--theme-text-color, #121314); --opera-secondary-=
+font-color: #6a6a75; --opera-modal-header-font-color: #6a6a75; --opera-moda=
+l-font-color: #121314; --opera-hint-font-color: #6e767a; --opera-shadow-col=
+or: var(--theme-shadow-color, transparent); --opera-focus-outline-color: #0=
+199ff66; --opera-controls-primary-color: #0199ff; --opera-controls-primary-=
+hover-color: #0084ff; --opera-controls-primary-focus-color: #0b55e8; --oper=
+a-controls-danger-color: #fa1e4e; --opera-controls-danger-hover-color: #e01=
+b46; --opera-controls-danger-focus-color: #c7183e; --opera-controls-seconda=
+ry-color: #ffffff; --opera-controls-secondary-hover-color: #d8e2eb; --opera=
+-controls-secondary-focus-color: #b2cce3; --opera-controls-disabled-color: =
+#d8e2eb; --opera-icon-color: #2a343d; --opera-icon-disabled-color: #b6c6d3;=
+ --opera-icon-background-color: var(--opera-background-color); --opera-back=
+ground-color: #eef3f7; --opera-secondary-background-color: #ffffff; --opera=
+-secondary-background-hover-color: #eef3f7; --opera-link-color: #007acc; --=
+opera-link-hover-background-color: #007acc14; --opera-link-focus-background=
+-color: #007acc3d; --opera-separator-color: var(--opera-controls-disabled-c=
+olor); --opera-folder-background-color: #e6eef5; --opera-tile-background-co=
+lor: #ffffff; --opera-tile-text-color: #000000; --opera-dark-scrollbar-colo=
+r: #9995; --opera-dark-scrollbar-hover-color: #6668; --opera-light-scrollba=
+r-color: #6665; --opera-light-scrollbar-hover-color: #9998; --opera-startpa=
+ge-component-based-background: #FFFFFF; --opera-startpage-secondary-backgro=
+und-color: #E7EDF1; --opera-startpage-secondary-text-color: #5021FF; --oper=
+a-vpn-off-button-background: linear-gradient(180deg, #C3CAD0 0%, #8997A3 10=
+0%); --opera-vpn-off-button-background-hover: linear-gradient(180deg, #C3CA=
+D0 0%, #8997A3 100%); --opera-vpn-off-button-background-pressed: linear-gra=
+dient(180deg, #C3CAD0 0%, #8997A3 100%); --opera-accent-color-r: env(-opera=
+-accent-color-r); --opera-accent-color-g: env(-opera-accent-color-g); --ope=
+ra-accent-color-b: env(-opera-accent-color-b); }
+
+@media (prefers-color-scheme: dark) {
+  :root, :host { --opera-primary-color: #45b0e6; --opera-primary-color-rgb:=
+ 69, 176, 230; --opera-secondary-color: #45b0e6a0; --opera-error-color: #ff=
+776c; --opera-font-color: var(--theme-text-color, #fafafa); --opera-seconda=
+ry-font-color: var(--theme-secondary-text-color, #a8abad); --opera-modal-fo=
+nt-color: #fafafa; --opera-hint-font-color: #b4c1cc; --opera-focus-outline-=
+color: #45b0e67a; --opera-controls-primary-color: #45b0e6; --opera-controls=
+-primary-hover-color: #4993b8; --opera-controls-primary-focus-color: #1b79a=
+8; --opera-controls-secondary-color: #2a343d; --opera-controls-secondary-ho=
+ver-color: #3e4852; --opera-controls-secondary-focus-color: #4d647a; --oper=
+a-controls-disabled-color: #3e4852; --opera-icon-color: #ffffff; --opera-ic=
+on-disabled-color: var(--opera-separator-color); --opera-icon-background-co=
+lor: var(--opera-input-background-color); --opera-background-color: #101214=
+; --opera-secondary-background-color: #171b1f; --opera-secondary-background=
+-hover-color: #222325; --opera-link-color: #96deff; --opera-link-hover-back=
+ground-color: #96ddff3d; --opera-link-focus-background-color: #96ddff7a; --=
+opera-folder-background-color: #2a343d; --opera-tile-background-color: var(=
+--opera-folder-background-color); --opera-tile-text-color: #f0f0f0; --opera=
+-startpage-component-based-dolphin: #252836; --opera-startpage-component-ba=
+sed-background: var(--opera-startpage-component-based-dolphin); --opera-sta=
+rtpage-secondary-background-color: #484D65; --opera-startpage-secondary-tex=
+t-color: #FFFFFF; --opera-checkbox-border-color: #484D65; }
+}
+
+:root.component-ui, :host-context(html.component-ui) { --opera-primary-colo=
+r: #5021ff; --opera-controls-primary-color: #5021ff; --opera-controls-prima=
+ry-hover-color: #6138f5; --opera-controls-primary-focus-color: #6d60f9; --o=
+pera-secondary-background-hover-color: #BBCBD799; }
+
+@media (prefers-color-scheme: dark) {
+  :root.component-ui, :host-context(html.component-ui) { --opera-primary-co=
+lor: #5021ff; --opera-controls-primary-hover-color: #401acc; --opera-contro=
+ls-primary-focus-color: #5e52e3; --opera-secondary-background-color: #25283=
+6; --opera-secondary-background-hover-color: #484d64; }
+}
+
+:root.gx, :host-context(html.gx) { --palette-gx_no_00-values: env(-opera-gx=
+-background-color-h)
+      env(-opera-gx-background-color-s) 0%; --palette-gx_no_04-values: env(=
+-opera-gx-background-color-h)
+      env(-opera-gx-background-color-s) 4%; --palette-gx_no_08-values: env(=
+-opera-gx-background-color-h)
+      env(-opera-gx-background-color-s) 8%; --palette-gx_no_12-values: env(=
+-opera-gx-background-color-h
+     ) env(-opera-gx-background-color-s) 12%; --palette-gx_no_16-values: en=
+v(-opera-gx-background-color-h)
+      env(-opera-gx-background-color-s) 16%; --palette-gx_no_20-values: env=
+(-opera-gx-background-color-h)
+      env(-opera-gx-background-color-s) 20%; --palette-gx_no_24-values: env=
+(-opera-gx-background-color-h)
+      env(-opera-gx-background-color-s) 24%; --palette-gx_no_32-values: env=
+(-opera-gx-background-color-h)
+      env(-opera-gx-background-color-s) 32%; --palette-gx_no_40-values: env=
+(-opera-gx-background-color-h)
+      env(-opera-gx-background-color-s) 40%; --palette-gx_no_59-values: env=
+(-opera-gx-background-color-h)
+      env(-opera-gx-background-color-s) 59%; --palette-gx_no_77-values: env=
+(-opera-gx-background-color-h)
+      env(-opera-gx-background-color-s) 77%; --palette-gx_no_80-values: env=
+(-opera-gx-background-color-h)
+      env(-opera-gx-background-color-s) 80%; --palette-gx_no_88-values: env=
+(-opera-gx-background-color-h)
+      env(-opera-gx-background-color-s) 88%; --palette-gx_no_90-values: env=
+(-opera-gx-background-color-h)
+      env(-opera-gx-background-color-s) 90%; --palette-gx_no_92-values: env=
+(-opera-gx-background-color-h)
+      env(-opera-gx-background-color-s) 92%; --palette-gx_no_96-values: env=
+(-opera-gx-background-color-h)
+      env(-opera-gx-background-color-s) 96%; --palette-gx_no_98-values: env=
+(-opera-gx-background-color-h)
+      env(-opera-gx-background-color-s) 98%; --palette-gx_no_100-values: en=
+v(-opera-gx-background-color-h)
+      env(-opera-gx-background-color-s) 100%; --palette-gx_accent-values-rg=
+b: env(-opera-gx-accent-color-r)
+      env(-opera-gx-accent-color-g)
+      env(-opera-gx-accent-color-b); --palette-gx_accent_l_8-values-rgb: ca=
+lc(env(-opera-gx-accent-color-r) * (0.08))
+      calc(env(-opera-gx-accent-color-g) * (0.08))
+      calc(env(-opera-gx-accent-color-b) * (0.08)); --palette-gx_accent_l_1=
+6-values-rgb: calc(env(-opera-gx-accent-color-r) * (0.16))
+      calc(env(-opera-gx-accent-color-g) * (0.16))
+      calc(env(-opera-gx-accent-color-b) * (0.16)); --palette-gx_accent_l_2=
+4-values-rgb: calc(env(-opera-gx-accent-color-r) * (0.24))
+      calc(env(-opera-gx-accent-color-g) * (0.24))
+      calc(env(-opera-gx-accent-color-b) * (0.24)); --palette-gx_accent_l_3=
+0-values-rgb: calc(env(-opera-gx-accent-color-r) * (0.3))
+      calc(env(-opera-gx-accent-color-g) * (0.3))
+      calc(env(-opera-gx-accent-color-b) * (0.3)); --palette-gx_accent_l_60=
+-values-rgb: calc(env(-opera-gx-accent-color-r) * (0.6))
+      calc(env(-opera-gx-accent-color-g) * (0.6))
+      calc(env(-opera-gx-accent-color-b) * (0.6)); --palette-gx_accent_l_80=
+-values-rgb: calc(env(-opera-gx-accent-color-r) * (0.8))
+      calc(env(-opera-gx-accent-color-g) * (0.8))
+      calc(env(-opera-gx-accent-color-b) * (0.8)); --palette-gx_accent_l_10=
+0-values-rgb: env(-opera-gx-accent-color-r)
+      env(-opera-gx-accent-color-g)
+      env(-opera-gx-accent-color-b); --palette-gx_accent_l_120-values-rgb: =
+calc(env(-opera-gx-accent-color-r) + (255 - env(-opera-gx-accent-color-r)) =
+* (0.2))
+      calc(env(-opera-gx-accent-color-g) + (255 - env(-opera-gx-accent-colo=
+r-g)) * (0.2))
+      calc(env(-opera-gx-accent-color-b) + (255 - env(-opera-gx-accent-colo=
+r-b)) * (0.2)); --palette-gx_accent_l_140-values-rgb: calc(env(-opera-gx-ac=
+cent-color-r) + (255 - env(-opera-gx-accent-color-r)) * (0.4))
+      calc(env(-opera-gx-accent-color-g) + (255 - env(-opera-gx-accent-colo=
+r-g)) * (0.4))
+      calc(env(-opera-gx-accent-color-b) + (255 - env(-opera-gx-accent-colo=
+r-b)) * (0.4)); --palette-gx_accent_l_160-values-rgb: calc(env(-opera-gx-ac=
+cent-color-r) + (255 - env(-opera-gx-accent-color-r)) * (0.6))
+      calc(env(-opera-gx-accent-color-g) + (255 - env(-opera-gx-accent-colo=
+r-g)) * (0.6))
+      calc(env(-opera-gx-accent-color-b) + (255 - env(-opera-gx-accent-colo=
+r-b)) * (0.6)); --palette-gx_no_00: hsl(var(--palette-gx_no_00-values)); --=
+palette-gx_no_04: hsl(var(--palette-gx_no_04-values)); --palette-gx_no_08: =
+hsl(var(--palette-gx_no_08-values)); --palette-gx_no_12: hsl(var(--palette-=
+gx_no_12-values)); --palette-gx_no_16: hsl(var(--palette-gx_no_16-values));=
+ --palette-gx_no_20: hsl(var(--palette-gx_no_20-values)); --palette-gx_no_2=
+4: hsl(var(--palette-gx_no_24-values)); --palette-gx_no_32: hsl(var(--palet=
+te-gx_no_32-values)); --palette-gx_no_40: hsl(var(--palette-gx_no_40-values=
+)); --palette-gx_no_59: hsl(var(--palette-gx_no_59-values)); --palette-gx_n=
+o_77: hsl(var(--palette-gx_no_77-values)); --palette-gx_no_80: hsl(var(--pa=
+lette-gx_no_80-values)); --palette-gx_no_88: hsl(var(--palette-gx_no_88-val=
+ues)); --palette-gx_no_90: hsl(var(--palette-gx_no_90-values)); --palette-g=
+x_no_92: hsl(var(--palette-gx_no_92-values)); --palette-gx_no_96: hsl(var(-=
+-palette-gx_no_96-values)); --palette-gx_no_98: hsl(var(--palette-gx_no_98-=
+values)); --palette-gx_no_100: hsl(var(--palette-gx_no_100-values)); --pale=
+tte-gx_accent: rgb(var(--palette-gx_accent-values-rgb)); --palette-gx_accen=
+t_l_8: rgb(var(--palette-gx_accent_l_8-values-rgb)); --palette-gx_accent_l_=
+16: rgb(var(--palette-gx_accent_l_16-values-rgb)); --palette-gx_accent_l_24=
+: rgb(var(--palette-gx_accent_l_24-values-rgb)); --palette-gx_accent_l_30: =
+rgb(var(--palette-gx_accent_l_30-values-rgb)); --palette-gx_accent_l_60: rg=
+b(var(--palette-gx_accent_l_60-values-rgb)); --palette-gx_accent_l_80: rgb(=
+var(--palette-gx_accent_l_80-values-rgb)); --palette-gx_accent_l_100: rgb(v=
+ar(--palette-gx_accent_l_100-values-rgb)); --palette-gx_accent_l_120: rgb(v=
+ar(--palette-gx_accent_l_120-values-rgb)); --palette-gx_accent_l_140: rgb(v=
+ar(--palette-gx_accent_l_140-values-rgb)); --palette-gx_accent_l_160: rgb(v=
+ar(--palette-gx_accent_l_160-values-rgb)); --opera-font-color: var(--palett=
+e-gx_no_00); --opera-error-color: var(--palette-gx_warning_red); --opera-ti=
+le-background-color: var(--palette-gx_no_96); --opera-tile-border-color: va=
+r(--palette-gx_no_80); --opera-folder-background-color: hsla(var(--palette-=
+gx_no_24-values) / 0.8); }
+
+@media (prefers-color-scheme: dark) {
+  :root.gx, :host-context(html.gx) { --opera-secondary-font-color: var(--pa=
+lette-gx_no_77); --opera-font-color: var(--palette-gx_no_100); --opera-tile=
+-background-color: var(--palette-gx_no_16); --opera-tile-border-color: var(=
+--palette-gx_no_20); --opera-folder-background-color: hsla(var(--palette-gx=
+_no_12-values) / 0.8); }
+}
+
+:root.zen { --opera-modal-font-color: #fff; }
+------MultipartBoundary--kbDVWtIAwSuSzREQHEVEJKEmUUUxcGUheb4iM2AuIc----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-30276b17-0405-44dd-8f4b-867ff23fd9c8@mhtml.blink
+
+@charset "utf-8";
+
+:root, :host { --opera-animation-tempo-hit: .5s; --opera-animation-tempo: 1=
+.8s; --opera-icon-size: 20px; --opera-logo-size: 32px; --opera-menu-width: =
+240px; --opera-menu-item-height: 32px; --opera-section-spacing: 56px; --ope=
+ra-header-height: 64px; --opera-header-padding: 16px 30px; --opera-header-t=
+itle-padding: 0 0 0 44px; --opera-header-font-size: 17px; --opera-header-fo=
+nt-weight: 450; --max-search-box-width: 620px; --max-news-section-width: 94=
+0px; --opera-default-font-weight: 500; --opera-default-font-size: 13px; --o=
+pera-headline-font-size: 36px; --opera-section-font-size: 15px; --opera-sec=
+tion-font-weight: 500; --opera-section-margin: 26px 0 12px 0; --opera-upper=
+case-font-size: 14px; --opera-font-family: -apple-system, BlinkMacSystemFon=
+t, "Segoe UI", Arial, sans-serif; --opera-article-font-size: 16px; --opera-=
+article-font-weight: 600; --opera-input-background-color: #ffffff; --opera-=
+input-background-color-hover: #fafafa; --opera-input-background-color-press=
+ed: #ededed; --opera-input-font-size: 13px; --opera-input-border-color: #d8=
+e2eb; --opera-input-border-radius: 3px; --opera-input-border-width: 1px; --=
+opera-input-padding: 8px 16px; --opera-input-height: 32px; --opera-rounded-=
+input-border-radius: 16px; --opera-small-input-font-size: 11px; --opera-sma=
+ll-input-height: 24px; --opera-button-font-color: var(--opera-font-color); =
+--opera-button-background-color: var(--opera-input-background-color); --ope=
+ra-button-background-color-hover: #d8e2eb; --opera-button-background-color-=
+pressed: #b2cce3; --opera-button-border-color: var(--opera-input-border-col=
+or); --opera-button-border-radius: 3px; --opera-button-padding: 6px 12px; -=
+-opera-button-disabled-background-color: #ffffff; --opera-button-disabled-b=
+order-color: #ebebee; --opera-button-disabled-font-color: #a0a1a1; --opera-=
+primary-button-font-color: #fff; --opera-primary-button-background-color: v=
+ar(--opera-controls-primary-color); --opera-primary-button-background-color=
+-hover: var(--opera-controls-primary-hover-color); --opera-primary-button-b=
+ackground-color-pressed: var(--opera-controls-primary-focus-color); --opera=
+-primary-button-border-color: #0084ff; --opera-primary-button-padding: 6px =
+16px; --opera-danger-button-font-color: #fff; --opera-danger-button-backgro=
+und-color: var(--opera-controls-danger-color); --opera-danger-button-backgr=
+ound-color-hover: var(--opera-controls-danger-hover-color); --opera-danger-=
+button-background-color-pressed: var(--opera-controls-danger-focus-color); =
+--opera-danger-button-border-color: #E01B46; --opera-danger-button-padding:=
+ 6px 16px; --opera-warning-color: #d0021b; --opera-switch-color: #ceced4; -=
+-opera-switch-color-hover: #bcbcc6; --opera-switch-color-pressed: #ceced4; =
+--opera-switch-active-color: #5021FF; --opera-switch-active-color-hover: #3=
+c13d5; --opera-switch-active-color-pressed: var(--opera-controls-primary-fo=
+cus-color); --opera-switch-toggle-color: #fff; --opera-switch-height: 20px;=
+ --opera-switch-width: 40px; --opera-pad-border-radius: 5px; --opera-pad-pa=
+dding: 20px; --opera-pad-shadow: 0 10px 20px -8px rgba(0, 0, 0, 0.04); --op=
+era-box-shadow: 0 10px 20px -8px rgba(0, 0, 0, 0.24); --opera-text-line-hei=
+ght: 1.5; --opera-text-shadow: 0px 0px 1.8px; --speeddial-tile-width: 140px=
+; --speeddial-tile-height: 89px; --speeddial-tile-spacing: 20px; --opera-se=
+ttings-menu-width: 240px; --opera-unchecked-radio-color: gray; --opera-chec=
+ked-radio-color: var(--opera-primary-color); --limiters-number-color: var(-=
+-palette-default_color_032); --limiters-label-color: var(--palette-default_=
+color_075); --limiters-gauge-needle-color: var(--palette-default_color_032)=
+; --limiters-gauge-color-enabled: var(--opera-primary-color); --limiters-ga=
+uge-color-disabled: var(--palette-default_color_009); --limiters-gauge-back=
+ground-color: var(--palette-default_color_036); --limiters-gauge-stroke-col=
+or: var(--palette-default_color_022); --limiters-slider-scale-color: var(--=
+palette-default_color_058); --limiters-options-border-disabled: var(--palet=
+te-default_color_194); --limiters-hot-tabs-toggle-disabled: var(--palette-d=
+efault_color_194); --opera-tree-hover-background: var(--opera-link-hover-ba=
+ckground-color); --opera-tree-input-border: var(--opera-primary-color); --o=
+pera-tree-input-selection-background: var(--opera-primary-color); --opera-t=
+ree-input-selection-color: white; --opera-tree-primary-color: var(--opera-f=
+ont-color); --opera-tree-secondary-color: var(--opera-secondary-font-color)=
+; --opera-tree-text-color: var(--opera-hint-font-color); --opera-shader-asp=
+ect-value: 0; }
+
+@media (prefers-color-scheme: dark) {
+  :root, :host { --opera-input-background-color: #030615; --opera-input-bor=
+der-color: #3e4852; --opera-input-background-color-hover: #494c4f; --opera-=
+input-background-color-pressed: #262729; --opera-button-disabled-background=
+-color: #030615; --opera-button-disabled-border-color: var(--opera-button-b=
+order-color); --opera-button-disabled-font-color: #3e4852; --opera-warning-=
+color: #ff5353; --opera-switch-color: #3d4042; --opera-switch-color-hover: =
+#494c4f; --opera-switch-color-pressed: #3d4042; --opera-pad-shadow: 0 10px =
+20px -8px rgba(0, 0, 0, 0.25); --opera-button-background-color-hover: #3e48=
+52; --opera-button-background-color-pressed: #4d647a; --opera-primary-butto=
+n-font-color: var(--opera-font-color); --opera-primary-button-border-color:=
+ #4993b8; --limiters-number-color: var(--palette-default_color_005); --limi=
+ters-label-color: var(--palette-default_color_112); --limiters-gauge-needle=
+-color: var(--palette-default_color_005); --limiters-gauge-color-enabled: v=
+ar(--opera-primary-color); --limiters-gauge-color-disabled: var(--palette-d=
+efault_color_011); --limiters-gauge-background-color: var(--palette-default=
+_color_203); --limiters-gauge-stroke-color: var(--palette-default_color_109=
+); --limiters-slider-scale-color: var(--palette-default_color_214); --limit=
+ers-options-border-disabled: var(--palette-default_color_080); --limiters-h=
+ot-tabs-toggle-disabled: var(--palette-default_color_080); }
+}
+
+:root.gx, :host-context(html.gx) { --opera-background-color: var(--palette-=
+gx_no_96); --opera-button-background-color: var(--palette-gx_no_90); --oper=
+a-button-background-color-hover: var(--palette-gx_no_80); --opera-button-ba=
+ckground-color-pressed: var(--palette-gx_no_40); --opera-button-border-colo=
+r: var(--palette-gx_no_80); --opera-button-disabled-background-color: var(-=
+-palette-gx_no_90); --opera-button-disabled-border-color: var(--palette-gx_=
+no_80); --opera-controls-disabled-color: var(--palette-gx_no_80); --opera-c=
+ontrols-primary-color: var(--palette-gx_accent); --opera-controls-primary-f=
+ocus-color: var(--palette-gx_accent); --opera-controls-primary-hover-color:=
+ var(--palette-gx_accent); --opera-focus-outline-color: var(--palette-gx_ac=
+cent_l_60); --opera-input-background-color: var(--palette-gx_no_88); --oper=
+a-input-background-color-hover: var(--palette-gx_no_90); --opera-input-back=
+ground-color-pressed: var(--palette-gx_no_90); --opera-input-border-color: =
+var(--palette-gx_no_80); --opera-link-color: var(--palette-gx_accent); --op=
+era-link-focus-background-color: rgb(var(--palette-gx_accent-values-rgb) / =
+0.5); --opera-link-hover-background-color: rgb(var(--palette-gx_accent-valu=
+es-rgb) / 0.25); --opera-modal-background-color: var(--palette-gx_no_88); -=
+-opera-modal-border-color: var(--palette-gx_accent_l_60); --opera-modal-hea=
+der-color: var(--palette-gx_no_88); --opera-primary-button-background-color=
+: var(--palette-gx_accent); --opera-primary-button-background-color-hover: =
+var(--palette-gx_accent); --opera-primary-button-border-color: var(--opera-=
+secondary-color); --opera-primary-button-font-color: var(--opera-gx-font-co=
+lor); --opera-primary-color: var(--palette-gx_accent); --opera-primary-colo=
+r-rgb: var(--palette-gx_accent-values-rgb); --opera-primary-color_l_30: var=
+(--palette-gx_accent_l_30); --opera-primary-color_l_60: var(--palette-gx_ac=
+cent_l_60); --opera-primary-color_l_80: var(--palette-gx_accent_l_80); --op=
+era-primary-color_l_120: var(--palette-gx_accent_l_120); --opera-primary-co=
+lor_l_140: var(--palette-gx_accent_l_140); --opera-primary-color_opacity_25=
+: rgb(var(--palette-gx_accent-values-rgb) / 0.25); --opera-primary-color_op=
+acity_50: rgb(var(--palette-gx_accent-values-rgb) / 0.5); --opera-primary-c=
+olor_opacity_75: rgb(var(--palette-gx_accent-values-rgb) / 0.75); --opera-s=
+econdary-background-color: var(--palette-gx_no_98); --opera-secondary-color=
+: var(--palette-gx_accent_l_60); --opera-secondary-font-color: var(--palett=
+e-gx_no_24); --opera-separator-color: var(--palette-gx_no_80); --opera-swit=
+ch-active-color: var(--opera-controls-primary-color); --opera-switch-active=
+-color-hover: var(--opera-controls-primary-hover-color); --opera-switch-act=
+ive-color-pressed: var(--opera-controls-primary-focus-color); --opera-switc=
+h-color: var(--palette-gx_no_80); --opera-switch-gx-background-color: var(-=
+-palette-gx_no_80); --opera-switch-color-hover: var(--opera-font-color); --=
+opera-switch-color-pressed: var(--palette-gx_no_24); --opera-warning-color:=
+ var(--palette-gx_warning_red); --opera-switch-toggle-color: var(--palette-=
+gx_no_100); --opera-unchecked-radio-color: var(--palette-gx_no_24); --opera=
+-gx-weather-widget-tooltip-background-color: var(--palette-gx_no_88); --ope=
+ra-gx-weather-widget-tooltip-border-color: var(--palette-gx_no_80); --chrom=
+a-animation-widget-focused-border-color: var(--palette-gx_no_40); --opera-g=
+x-booster-background-gradient-light: var(--palette-gx_no_88); --opera-gx-bo=
+oster-background-gradient-dark: var(--palette-gx_no_4); --limiters-number-c=
+olor: var(--palette-gx_no_00); --limiters-label-color: var(--palette-gx_no_=
+24); --limiters-gauge-needle-color: var(--palette-gx_no_00); --limiters-gau=
+ge-color-enabled: var(--opera-primary-color); --limiters-gauge-color-disabl=
+ed: var(--palette-gx_no_80); --limiters-gauge-background-color: var(--palet=
+te-gx_no_92); --limiters-gauge-stroke-color: var(--palette-gx_no_96); --lim=
+iters-slider-scale-color: var(--palette-gx_no_90); --limiters-options-borde=
+r-disabled: var(--palette-gx_no_88); --limiters-hot-tabs-toggle-disabled: v=
+ar(--palette-gx_no_88); --opera-tree-secondary-color: var(--palette-gx_no_4=
+0); --opera-text-shadow: 0px 0px 1.2px; --opera-font-family-fallback: -appl=
+e-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; --opera-font-f=
+amily: var(--gx-font-family-body, var(--opera-font-family-fallback)); }
+
+:root.gx.underwave, :host-context(html.gx.underwave) { --opera-default-font=
+-size: 12px; }
+
+@media (prefers-color-scheme: dark) {
+  :root.gx, :host-context(html.gx) { --opera-background-color: var(--palett=
+e-gx_no_08); --opera-button-background-color: var(--palette-gx_no_20); --op=
+era-button-background-color-hover: var(--palette-gx_no_32); --opera-button-=
+background-color-pressed: var(--palette-gx_no_59); --opera-button-border-co=
+lor: var(--palette-gx_no_32); --opera-button-disabled-background-color: var=
+(--palette-gx_no_20); --opera-button-disabled-border-color: var(--palette-g=
+x_no_32); --opera-controls-disabled-color: var(--palette-gx_no_32); --opera=
+-controls-primary-color: var(--palette-gx_accent); --opera-controls-primary=
+-focus-color: var(--palette-gx_accent); --opera-controls-primary-hover-colo=
+r: var(--palette-gx_accent); --opera-focus-outline-color: var(--palette-gx_=
+accent_l_60); --opera-input-background-color: var(--palette-gx_no_16); --op=
+era-input-background-color-hover: var(--palette-gx_no_20); --opera-input-ba=
+ckground-color-pressed: var(--palette-gx_no_20); --opera-input-border-color=
+: var(--palette-gx_no_32); --opera-link-color: var(--palette-gx_accent); --=
+opera-modal-background-color: var(--palette-gx_no_16); --opera-modal-border=
+-color: var(--palette-gx_accent_l_60); --opera-modal-header-color: var(--pa=
+lette-gx_no_16); --opera-primary-button-background-color: var(--palette-gx_=
+accent); --opera-primary-button-background-color-hover: var(--palette-gx_ac=
+cent); --opera-primary-button-border-color: var(--opera-secondary-color); -=
+-opera-primary-button-font-color: var(--opera-gx-font-color); --opera-prima=
+ry-color: var(--palette-gx_accent); --opera-secondary-background-color: var=
+(--palette-gx_no_12); --opera-secondary-color: var(--palette-gx_accent_l_60=
+); --opera-secondary-font-color: var(--palette-gx_no_77); --opera-separator=
+-color: var(--palette-gx_no_32); --opera-switch-color: var(--palette-gx_no_=
+32); --opera-switch-gx-background-color: var(--palette-gx_no_8); --opera-sw=
+itch-color-hover: var(--opera-font-color); --opera-switch-color-pressed: va=
+r(--palette-gx_no_77); --opera-warning-color: var(--palette-gx_warning_red)=
+; --opera-switch-toggle-color: var(--palette-gx_no_77); --opera-unchecked-r=
+adio-color: var(--palette-gx_no_32); --opera-gx-weather-widget-tooltip-back=
+ground-color: var(--palette-gx_no_16); --opera-gx-weather-widget-tooltip-bo=
+rder-color: var(--palette-gx_no_32); --chroma-animation-widget-focused-bord=
+er-color: var(--palette-gx_no_59); --opera-gx-booster-background-gradient-l=
+ight: var(--palette-gx_no_16); --opera-gx-booster-background-gradient-dark:=
+ var(--palette-gx_no_4); --limiters-number-color: var(--palette-gx_no_100);=
+ --limiters-label-color: var(--palette-gx_no_77); --limiters-gauge-needle-c=
+olor: var(--palette-gx_no_100); --limiters-gauge-color-enabled: var(--opera=
+-primary-color); --limiters-gauge-color-disabled: var(--palette-gx_no_32); =
+--limiters-gauge-background-color: var(--palette-gx_no_04); --limiters-gaug=
+e-stroke-color: var(--palette-gx_no_08); --limiters-slider-scale-color: var=
+(--palette-gx_no_20); --limiters-options-border-disabled: var(--palette-gx_=
+no_16); --limiters-hot-tabs-toggle-disabled: var(--palette-gx_no_16); --ope=
+ra-tree-secondary-color: var(--palette-gx_no_59); }
+}
+
+:root.bigger-tiles, :host-context(html.bigger-tiles) { --speeddial-tile-wid=
+th: 188px; --speeddial-tile-height: 120px; --speeddial-tile-spacing: 28px; =
+}
+
+:root.component-ui, :host-context(html.component-ui) { --opera-input-backgr=
+ound-color: #cdc9d9; --opera-input-background-color-hover: #c4c0e3; --opera=
+-input-background-color-pressed: #dfdde9; --opera-button-background-color-h=
+over: #c4c0d3; --opera-button-background-color-pressed: #dfdde9; }
+
+@media (prefers-color-scheme: dark) {
+  :root.component-ui, :host-context(html.component-ui) { --opera-input-back=
+ground-color: #56535f; --opera-input-background-color-hover: #5e5a6c; --ope=
+ra-input-background-color-pressed: #686478; --opera-button-background-color=
+-hover: #5e5a6c; --opera-button-background-color-pressed: #686478; }
+}
+
+:root.compact-layout, :host-context(html.compact-layout) { --opera-section-=
+spacing: 28px; }
+
+:root.no-background, :host-context(html.no-background) { --opera-background=
+-color: transparent; }
+------MultipartBoundary--kbDVWtIAwSuSzREQHEVEJKEmUUUxcGUheb4iM2AuIc----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-83be62f6-7610-4cc2-9fe5-db07cc706cfc@mhtml.blink
+
+@charset "utf-8";
+
+body { background: var(--opera-secondary-background-color); color: var(--op=
+era-font-color); display: block; height: 100vh; line-height: 1.6; min-heigh=
+t: 240px; min-width: 180px; padding: 0px 48px; }
+
+.description { font-size: var(--opera-uppercase-font-size); }
+
+a { color: var(--opera-link-color); font-weight: bold; }
+
+h1 { font-size: 32px; line-height: 40px; margin: 0px 0px 20px; }
+
+h4 { font-size: 16px; }
+
+.expand { cursor: pointer; margin: 0px 0px 16px -18px; padding: 0px 0px 0px=
+ 18px; position: relative; z-index: 1; }
+
+.expand::before { mask-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD=
+0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgeG1sbnM9Imh0dHA6Ly93d3cud=
+zMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMS41NSAzLjVsNC40NDcgNS4yNUwxMC41IDMuNSIg=
+c3Ryb2tlPSIjMDAwIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz48L3N2Zz4=3D"=
+); mask-position: left center; mask-repeat: no-repeat; background-color: rg=
+b(0, 132, 255); content: ""; height: 16px; left: 0px; opacity: 0.65; positi=
+on: absolute; top: 3px; transform: rotate(-90deg); transition: transform 0.=
+2s ease-in-out; width: 16px; }
+
+.gx .expand::before { background-color: var(--opera-controls-primary-color)=
+; }
+
+.expand.open::before { transform: rotate(0deg); }
+
+p, ul, ol, pre, table { font-weight: 400; margin: 0px 0px 16px; }
+
+ul { list-style-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiI=
+GhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3Jn=
+LzIwMDAvc3ZnIj48cGF0aCBzdHJva2U9IiMwMTk5RkYiIHN0cm9rZS13aWR0aD0iMiIgZD0iTTE=
+xIDJMNC41IDkuNSAxIDYiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLW=
+xpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg=3D=3D"); }
+
+input[type=3D"checkbox"], input[type=3D"radio"] { margin-right: 4px; }
+
+small { color: rgb(139, 139, 139); display: block; font-style: ; font-varia=
+nt-ligatures: ; font-variant-caps: ; font-variant-numeric: ; font-variant-e=
+ast-asian: ; font-variant-alternates: ; font-variant-position: ; font-weigh=
+t: ; font-stretch: ; font-family: ; font-optical-sizing: ; font-size-adjust=
+: ; font-kerning: ; font-feature-settings: ; font-variation-settings: ; fon=
+t-size: var(--font-size-default); line-height: 20px; max-width: 33em; }
+
+.content { margin: auto; max-width: 600px; padding: 20px 0px; z-index: 2; }
+
+.illustration { animation: 0.3s ease-in-out 0.25s 1 normal forwards running=
+ show; margin: 38px 24px 2em 0px; opacity: 0; transform: translate(-20px, 0=
+px); }
+
+.gx-logo { width: 82px; height: 87px; mask-image: url("data:image/svg+xml;b=
+ase64,PHN2ZyB3aWR0aD0iODIiIGhlaWdodD0iODIiIHZpZXdCb3g9IjAgMCA4MiA4MiIgZmlsb=
+D0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1y=
+dWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik01MS4xMjM4IDcyLjE3OEM1Ni4=
+wOTQ1IDcyLjE3OCA2MC45Njc1IDcwLjY5NTUgNjUuMjMwMSA2Ny44OTgzQzcyLjg0MjYgNjEuMD=
+M2NSA3Ny4yMDg1IDUxLjI0MjkgNzcuMjA4NSA0MS4wMDFDNzcuMjA4NSAzMC43NiA3Mi44NDM1I=
+DIwLjk2NzMgNjUuMjMzIDE0LjEwNTVDNjAuOTY4NSAxMS4zMDY0IDU2LjA5NDUgOS44MjM5MSA1=
+MS4xMjM4IDkuODIzOTFDNDIuOTg5MSA5LjgyMzkxIDM1LjI3NDMgMTMuNzgyMyAyOS45NTk2IDI=
+wLjY4MzlDMjUuODI4NyAyNS41NjM2IDIzLjM5NDYgMzIuNjMyIDIzLjIyNTkgNDAuMTQ2TDIzLj=
+IyNjggNDEuODk4NkMyMy4zOTQ2IDQ5LjM2ODkgMjUuODI4NyA1Ni40MzczIDI5LjkwNDYgNjEuM=
+jQ4OEMyOS45MjM2IDYxLjI3MjUgMjkuOTQxNiA2MS4yOTQzIDI5Ljk2MDUgNjEuMzE4QzM1LjI3=
+NDMgNjguMjE5NiA0Mi45ODgyIDcyLjE3OCA1MS4xMjM4IDcyLjE3OFpNNC43OTE1MSA0MS4wMDF=
+DNC43OTE1MSA2MC4zNzM5IDE5LjkzODYgNzYuMjU5NiAzOS4yNzM0IDc3LjE2NjdDNDMuMDE4NS=
+A3Ny4zNDQ5IDQ2LjgzNjYgNzYuOTMxNyA1MC40MzQ3IDc1Ljk2MUM0MS4zODM0IDc1Ljc0NDkgM=
+zIuODcwNSA3MS4yOTI3IDI2Ljk4MjMgNjMuNjY1OUMyMi4zNzI4IDU4LjIwNDIgMTkuNjIzIDUw=
+LjI4ODQgMTkuNDM1MyA0MS45NDEzVjQwLjEwMzNDMTkuNjIzIDMxLjY5NDYgMjIuMzg0MSAyMy4=
+3NjM2IDI3LjAxMDcgMTguMzAyOEMzMi44NDU5IDEwLjcyMjUgNDEuMzY4MyA2LjI1NyA1MC40Mz=
+E5IDYuMDQwODhDNDcuNDI1MiA1LjIzMDQzIDQ0LjMwMjkgNC44MDQ4MyA0MS4xMzYgNC43OTM0N=
+kw0MS4wMzU1IDQuNzkyNTFDMjEuMDM0NCA0Ljc5MTU2IDQuNzkxNTEgMjEuMDM1NSA0Ljc5MTUx=
+IDQxLjAwMVpNNDEuMTA4NSAxLjAwMTlDNTAuOTQ4NSAxLjAzODg2IDYwLjM2MjggNC42NTQxMSA=
+2Ny42NTk2IDExLjE4MzJDNzYuMTM3NCAxOC43NjcyIDgxIDI5LjYzNTggODEgNDEuMDAxQzgxID=
+UyLjM2NzEgNzYuMTM2NCA2My4yMzU2IDY3LjY1NjcgNzAuODIwNkw2Ny42NDgyIDcwLjgyNjNDN=
+jAuMzExNiA3Ny4zODc2IDUwLjg0NyA4MSA0MS4wMDA1IDgxQzQwLjM2MjYgODEgMzkuNzI4NCA4=
+MC45ODM5IDM5LjA5ODEgODAuOTU0NUMxNy43MzM4IDc5Ljk1MjYgMSA2Mi40MDI0IDEgNDEuMDA=
+xQzEgMTguOTQ0NSAxOC45NDQzIDEgNDEuMDAwNSAxQzQxLjAxMTkgMSA0MS4wOTYyIDEuMDAwOT=
+UgNDEuMTA4NSAxLjAwMTlaTTYwLjM4MDYgNDEuMDUyMUM2MC4zODA2IDI5Ljk2NzcgNTUuNDY3M=
+SAyMC4zODU1IDQ4LjMzMTIgMTUuODAzMUM1Ny40NCAxNi41NTggNjQuNjY4NyAyNy41NzIyIDY0=
+LjY2ODcgNDEuMDUyMUM2NC42Njg3IDU0LjUzMjEgNTcuNDQgNjUuNTQ2MyA0OC4zMzEyIDY2LjM=
+wMTJDNTUuNDY3MSA2MS43MTk3IDYwLjM4MDYgNTIuMTM2NSA2MC4zODA2IDQxLjA1MjFaIiBmaW=
+xsPSIjRkExRTRFIi8+Cjwvc3ZnPgo=3D"); mask-position: left center; mask-repeat=
+: no-repeat; background-color: var(--opera-controls-primary-color); backgro=
+und-size: 82px 82px; }
+
+.description { animation: 0.3s ease-in-out 0.25s 1 normal forwards running =
+show; max-width: 30em; opacity: 0; transform: translate(20px, 0px); transit=
+ion: height 2s ease-in-out; }
+
+form { display: flex; justify-content: space-between; margin: 24px 0px; wid=
+th: 100%; }
+
+.web-search { border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.24) 0px 10px =
+20px -8px; margin: 24px 0px; min-height: 40px; position: relative; backgrou=
+nd: white !important; padding: 0px !important; }
+
+.web-search-inner-container { align-items: center; display: flex; height: 5=
+2px; width: 100%; }
+
+.web-search-logo { height: 36px; margin: 0px 12px; width: 36px; background-=
+image: url("data:image/png;base64,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
+/BgX8ZeZDkAAAAASUVORK5CYII=3D") !important; background-position: center cen=
+ter !important; background-size: 36px !important; }
+
+.web-search-input { background-color: transparent; border: 0px; font-size: =
+16px; width: 100%; }
+
+.web-search .web-search-input:focus { outline: none; }
+
+.web-search .web-search-submit { background-color: transparent; background-=
+image: url("data:image/svg+xml,%3Csvg viewBox=3D'0 0 16 16' xmlns=3D'http:/=
+/www.w3.org/2000/svg'%3E%3Cg fill=3D'none' fill-rule=3D'evenodd'%3E%3Cpath =
+d=3D'M0 0h16v16H0z'/%3E%3Cg stroke=3D'%2367717A' stroke-linecap=3D'round'%3=
+E%3Cpath d=3D'M14.5 14.5l-4-4M11.5 6.5a5 5 0 1 1-10.001-.001A5 5 0 0 1 11.5=
+ 6.5z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E"); background-size: 24px; border-width=
+: 0px; cursor: pointer; height: 24px; margin: 0px 16px; width: 24px; }
+
+.suggestion-input-container { flex: 1 1 0%; }
+
+@media (prefers-color-scheme: dark) {
+  #animation canvas { filter: invert(0.92); }
+}
+
+@media screen and (min-width: 700px) {
+  body { align-items: center; display: flex; }
+  .content { display: flex; align-items: flex-start; }
+  .illustration { margin-top: 0px; }
+  .description { margin-top: 20px; width: 30em; }
+  #animation { margin-top: 0px; }
+}
+
+@media screen and (max-width: 699px) and (max-height: 480px) {
+  .content { margin-top: 50px; }
+}
+
+@media (min-width: 600px) and (max-width: 666px) {
+  .web-search-logo { display: inline !important; }
+  .web-search .suggestion-input-container { margin-left: 20px !important; }
+}
+
+.button { background-position: 12px center; border-radius: 4px; border: non=
+e; box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px; cursor: pointer; display: in=
+line-block; font-size: 16px; line-height: 42px; margin: 0px 24px 24px 0px; =
+padding: 0px 36px; text-decoration: none; transition: transform 0.2s ease-i=
+n-out; white-space: nowrap; }
+
+.button.default { background: var(--opera-primary-button-background-color);=
+ color: var(--opera-primary-button-font-color, #fff); font-weight: bold; }
+
+.button svg { margin: -2px 4px 0px -4px; vertical-align: middle; }
+
+.button.secondary { background: rgb(255, 255, 255); box-shadow: rgba(0, 0, =
+0, 0.1) 0px 0px 0px 1px, rgba(0, 0, 0, 0.1) 0px 1px 3px; color: rgb(102, 10=
+2, 102); }
+
+.button:hover, .button:focus { background: var(--opera-primary-button-backg=
+round-color-hover); }
+
+.button:active { background: var(--opera-primary-button-background-color-pr=
+essed); transform: translate(0px, 2px); }
+
+.button.secondary:hover, .button.secondary:focus, .button.secondary:active =
+{ background: rgb(238, 238, 238); }
+
+.flex { display: flex; justify-content: space-between; margin: 0px 16px; al=
+ign-items: center; }
+
+.flex p { margin: 0px; }
+
+#advisoryImage { display: block; height: auto; margin: 0px 32px 0px 0px; }
+
+:not(.use-popup-container)#error-information-popup-container #error-informa=
+tion-popup-close { display: none; }
+
+#error-information-popup .error-code { margin-bottom: 16px; }
+
+.more { animation: 0.1s ease-in-out 0s 1 normal forwards running hide; tran=
+sform: translate(0px, -20px); display: none; }
+
+.more.show { animation: 0.2s ease-in-out 0s 1 normal forwards running show;=
+ display: block; }
+
+@keyframes show {=20
+  100% { opacity: 1; transform: translate(0px, 0px); }
+}
+
+@keyframes hide {=20
+  100% { opacity: 0; transform: translate(0px, -10px); }
+}
+
+.malware .more { background: rgb(255, 255, 255); padding: 16px; border-radi=
+us: 4px; color: rgb(63, 63, 63); }
+
+.malware .more a { color: rgb(1, 153, 255); }
+
+.animation { animation: 0.3s ease-in-out 0.25s 1 normal forwards running sh=
+ow; transform: translate(20px, 0px); opacity: 0; margin-right: 40px; margin=
+-top: -20px; width: 150px; height: 150px; }
+
+#lottie-err-animation .color1 { stroke: rgb(25, 29, 30); fill: rgb(25, 29, =
+30); }
+
+#lottie-err-animation .color2 { fill: rgb(255, 255, 255); }
+
+@media (prefers-color-scheme: dark) {
+  #lottie-err-animation .color1 { stroke: rgb(213, 209, 208); fill: rgb(213=
+, 209, 208); }
+  #lottie-err-animation .color2 { fill: rgb(20, 20, 20); }
+}
+------MultipartBoundary--kbDVWtIAwSuSzREQHEVEJKEmUUUxcGUheb4iM2AuIc----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-58ebb383-d4de-46a2-b45f-4529e5afa81f@mhtml.blink
+
+@charset "utf-8";
+
+.btn { display: inline-block; padding: 10px 32px; font-size: 16px; font-wei=
+ght: 700; text-transform: uppercase; color: var(--opera-primary-button-font=
+-color); border-radius: 3px; background-color: var(--opera-primary-button-b=
+ackground-color); border: 1px solid var(--opera-primary-button-border-color=
+); margin-top: 48px; cursor: pointer; }
+
+.btn:hover { background-color: var(--opera-primary-button-background-color-=
+hover); }
+
+.game-hidden { display: none; }
+
+html.gx ::selection { background-color: var(--opera-primary-color); color: =
+var(--opera-gx-font-color); }
+------MultipartBoundary--kbDVWtIAwSuSzREQHEVEJKEmUUUxcGUheb4iM2AuIc----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-82f2a30e-cae4-4034-a1b5-67368c868220@mhtml.blink
+
+@charset "utf-8";
+
+li::marker { content: "=E2=9C=94=C2=A0"; color: var(--opera-primary-color);=
+ }
+
+@media (prefers-color-scheme: dark) {
+  #lottie-err-animation .color1 { fill: var(--palette-gx_no_100); stroke: v=
+ar(--palette-gx_no_100); }
+  #lottie-err-animation .color2 { fill: var(--palette-gx_no_08); }
+}
+------MultipartBoundary--kbDVWtIAwSuSzREQHEVEJKEmUUUxcGUheb4iM2AuIc----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-56040482-0722-45b1-9c7d-acf3f8c2e1b9@mhtml.blink
+
+@charset "utf-8";
+
+body { background-color: var(--palette-gx_no_96); }
+
+.stroke { stroke: var(--palette-gx_no_80); }
+
+.corner { position: absolute; z-index: -2; }
+
+.btmleft { left: 0px; bottom: 0px; width: 30%; height: auto; }
+
+.topright { right: 0px; top: 0px; width: 30%; height: auto; }
+
+@keyframes show {=20
+  100% { opacity: 1; }
+}
+
+@keyframes hide {=20
+  100% { opacity: 0; }
+}
+
+.game-animation { width: 543px; height: 543px; position: absolute; display:=
+ block; top: 50%; right: 0px; transform: translate(-50%, -50%) !important; =
+}
+
+.content { position: relative; }
+
+.btn { background-color: var(--palette-gx_accent); border: 1px solid var(--=
+palette-gx_accent_l_80); box-shadow: 0px 0px 32px rgb(var(--palette-gx_acce=
+nt-values-rgb) / 48%); }
+
+.btn:hover { background-color: var(--palette-gx_accent_l_120); }
+
+#lottie-err-animation .color_operius_1 { fill: var(--palette-gx_no_80); str=
+oke: var(--palette-gx_no_80); }
+
+#lottie-err-animation .color_operius_2 { fill: var(--palette-gx_no_00); }
+
+@media (prefers-color-scheme: dark) {
+  body { background-color: var(--palette-gx_no_08); }
+  .stroke { stroke: var(--palette-gx_no_32); }
+  .btn { border: 1px solid var(--palette-gx_accent_l_140); }
+  .description .main { color: var(--palette-gx_no_77); }
+  #error-information-popup-container { color: var(--palette-gx_no_77); }
+  #lottie-err-animation .color_operius_1 { fill: var(--palette-gx_accent); =
+stroke: var(--palette-gx_accent); }
+  #lottie-err-animation .color_operius_2 { fill: var(--palette-gx_no_77); }
+}
+------MultipartBoundary--kbDVWtIAwSuSzREQHEVEJKEmUUUxcGUheb4iM2AuIc----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-3fa1bfb0-ea15-4a1d-a196-9fe554363b49@mhtml.blink
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--kbDVWtIAwSuSzREQHEVEJKEmUUUxcGUheb4iM2AuIc------

@@ -1,0 +1,283 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+ width: 100%;
+ left: 12px;
+  position: relative;
+  top: -12px;
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+.bloc_buttonAjout{
+  border: transparent solid;
+  width: 160px;
+  top: 28px;
+ left: 300px;
+  position: absolute;
+  
+  display: flex;
+
+}
+.bloc_buttonAjout_footer{
+  border: transparent solid;
+  width: 160px;
+  top: 3px;
+position: relative;
+margin: auto;
+right: 7px;
+  display: flex;
+
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.titre {
+  font-size: 30px;
+  position: absolute;
+  left: 110px;
+  top: 25px;
+  font-family: "Cormorant Garamond", serif;
+
+  font-weight: 700;
+  color: rgb(15, 17, 107);
+}
+
+.logo-img {
+  width: 90px;
+  margin-right: 10px;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  position: relative;
+  top: 10px;
+  border: transparent solid;
+  margin-right: 20px;
+}
+
+.nav-link {
+  list-style: none;
+  position: relative;
+
+  border: transparent solid;
+  margin-right: 20px;
+}
+.nav-link li {
+  margin-left: 5px;
+}
+.nav-link a {
+  position: relative;
+  text-decoration: none;
+  color: rgb(32, 32, 32);
+  font-size: 20px;
+  font-weight: 600;
+  padding-bottom: 10px;
+  transition: color 0.3s ease-in-out;
+}
+
+
+.nav-links a:hover::after {
+  width: 100%;
+}
+.nav-links li {
+  margin-left: 35px;
+}
+
+.nav-links a {
+  position: relative;
+  text-decoration: none;
+  color: rgb(32, 32, 32);  font-size: 20px;
+  font-weight: 600;
+  padding-bottom: 10px;
+  transition: color 0.3s ease-in-out;
+}
+
+.nav-links a::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 4px;
+    bottom: 0;
+    left: 0;
+    background-color: rgb(26, 5, 104);
+    transition: width 0.3s ease-in-out;
+}
+
+.nav-links a:hover::after {
+  width: 100%;
+}
+
+.button_Offcanvas {
+  background-color: transparent;
+  color: black;
+  border: 2px solid #d3d2d2;
+  position: absolute;
+  display: none;
+  top: 25px;
+  right: 15px; /* تثبيت الزر على الجهة اليمنى */
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 10px;
+}
+.button_Offcanvas:hover {
+ color:  rgb(255, 255, 255);
+ background-color: black;
+}
+.active-link {
+  border-bottom: 3px solid rgb(26, 5, 104); /* خط تحت الزر النشط */
+  font-weight: 900;
+}
+
+
+
+
+
+
+.bloc_command{
+  z-index: 100;
+  background-color: red;
+  width: 500px;
+  height: 500px;
+}
+
+.cart-count {
+  position: absolute;
+  top: -5px;
+  right: -10px;
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+  padding: 2px 5px;
+  font-size: 120px;
+}
+
+/* الروابط الافتراضية */
+.nav-links li a {
+  color: rgb(65, 65, 65); /* اللون الافتراضي للنص */
+  text-decoration: none; /* لا يوجد خط تحت الروابط بشكل افتراضي */
+  font-family: "Poppins", sans-serif;
+
+  padding-bottom: 5px; /* إضافة مسافة صغيرة تحت الرابط لتظهر المسافة بين النص والخط */
+}
+
+/* التأثير عند التمرير */
+
+.pi-shopping-cart{
+  font-size: 2rem ;
+  position:absolute;
+    right:20px;
+    top: 45px;
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.footer_navbar{
+  border: transparent solid;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  left: -0px;
+  z-index: 100;
+  height: 80px;
+  display: none;
+  background-color: rgb(230, 230, 230);
+
+  box-shadow: 10px 10px 5px 9px rgb(112, 112, 112);
+
+}
+/* Responsive Design */
+
+@media (max-width: 1400px) {
+  .nav-links {
+      display: none;
+      flex-direction: column;
+      background-color: #fff;
+      position: absolute;
+      top: 70px;
+      right: 0;
+      width: 100%;
+      padding: 20px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+
+  .nav-links li {
+      margin-left: 0;
+      margin-bottom: 15px;
+  }
+
+  .button_Offcanvas {
+      display: block;
+      
+  }
+  .pi-shopping-cart{
+
+      right:120px;
+      top: 50px;
+  }
+.bloc_buttonAjout {
+    border: solid 1px transparent;
+    position: relative; /* لتثبيت العنصر داخل عنصر حاوية */
+    left: -100px;
+    top: 7px;
+
+}
+
+ 
+}
+
+@media (max-width: 600px) {
+ 
+.footer_navbar{
+ 
+  display: block;
+
+}
+.bloc_buttonAjout{
+ display: none;
+}
+ 
+}
+@media (max-width: 400px) {
+  .titre{
+    display: none;
+  }
+ 
+}
+
+@media (max-width: 520px) {
+  .titre{
+    font-size: 35px;
+    top: 20px;
+    left: 110px;
+  }
+  .button_Offcanvas {
+   right: 5px;
+    
+}
+.pi-shopping-cart{
+
+  right:95px;
+  font: 10px;
+
+}
+
+
+ 
+}
+
+

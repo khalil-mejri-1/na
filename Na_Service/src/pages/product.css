@@ -1,0 +1,164 @@
+
+  .product-card {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    
+    
+    max-width: 400px;
+    margin-left: -10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+    transition: transform 0.2s ease-in-out;
+  }
+
+  .main-title{
+float: left; 
+position: absolute;
+
+}
+  .product-card h3 {
+    font-size: 22px;
+    max-width: 300px;
+    border: transparent solid;
+    font-weight: 700;
+    margin-bottom: 10px;
+    white-space: nowrap; /* لا تجعل النص ينتقل للسطر التالي */
+    overflow: hidden; /* إخفاء النص الذي يتجاوز الحد الأقصى للعرض */
+    text-overflow: ellipsis; /* استبدال النص الزائد بنقاط */
+  }
+  
+  
+  .product-card h5 {
+    font-size: 15px;
+    max-width: 400px;
+    margin-bottom: 10px;
+    white-space: nowrap; /* لا تجعل النص ينتقل للسطر التالي */
+    overflow: hidden; /* إخفاء النص الذي يتجاوز الحد الأقصى للعرض */
+    text-overflow: ellipsis; /* استبدال النص الزائد بنقاط */
+  }
+  h5 {
+    color: #666464;
+  }
+  
+  .price {
+    font-weight: bold;
+    font-size: 20px;
+    
+    position: relative;
+    
+    margin-bottom: 15px;
+  }
+  p{
+    position: relative;
+    top: 10px;
+    color: #333;
+  }
+ 
+  button:hover {
+    background-color: #333;
+  }
+  
+  .product-card:hover {
+    transform: translateY(-5px);
+  }
+
+ /* تصميم زر "Ajouter au panier" */
+ 
+ button {
+  background-color: black;
+  color: white;
+ 
+  border: none;
+  position: relative;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+}
+.cart-icon {
+  position: relative;
+}
+
+
+.message {
+  margin-top: 20px;
+  padding: 10px;
+  position: fixed;
+  right: 10px;
+  top: 111px;
+  background-color: #e0ffe0;
+  color: #838383;
+  border: 1px solid #4caf50;
+  border-radius: 5px;
+  text-align: center;
+}
+
+
+
+/* تصميم زر التحميل */
+.loading-button {
+  width: 161px; /* نفس عرض زر "Ajouter au panier" */
+  height: 44px; /* نفس ارتفاع زر "Ajouter au panier" */
+  background-color: black;
+  position: relative;
+  top: 10px;
+  margin-bottom: 11px;
+  color: white;
+  margin-top: 10px;
+  font-size: 16px;
+
+   border: none;
+   padding: 10px 20px;
+
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: not-allowed;
+}
+
+/* تصميم عنصر الدوران */
+.spinner {
+  border: 4px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 4px solid #3498db;
+  width: 20px;
+  height: 20px;
+  animation: spin 2s linear infinite;
+}
+
+/* حركة الدوران */
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+  
+  @media (max-width: 768px) {
+    .product-grid {
+        grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    }
+  }
+  @media (max-width: 479px) {
+    .product-grid {
+    }
+  }
+  
+
+  @media (max-width: 1510px) {
+    .bloc_produit{
+       width: 100%;
+      }
+  }
+  @media (max-width: 500px) {
+    .product-grid {
+       
+        padding: 5px;
+       
+      }
+      .bloc_produit{
+       padding: 5px;
+      }
+   
+  }

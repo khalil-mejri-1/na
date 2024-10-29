@@ -1,0 +1,119 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .vineyard-services {
+    max-width: 1500px;
+    margin: 20px auto;
+    position: relative;
+    top: 40px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 8px;
+  }
+  
+  .vineyard-services h1 {
+    font-size: 2rem;
+    text-align: center;
+    color: #333;
+  }
+  
+  .vineyard-services p {
+    text-align: center;
+    color: #666;
+    margin-bottom: 40px;
+  }
+  
+  .services-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+  }
+  
+  .service-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    text-align: center;
+  }
+  
+  .service-card h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .service-card p {
+    color: #555;
+  }
+  .service-image {
+    width: 100%; /* جعل العرض 100% */
+    height: 200px; /* تعيين ارتفاع ثابت للصورة */
+    object-fit: cover; /* الحفاظ على نسبة العرض إلى الارتفاع مع القص */
+    border-radius: 5px; /* زوايا مدورة للصورة */
+    margin-top: 10px; /* مسافة بين العنوان والصورة */
+  }
+ 
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .vineyard-services h1 {
+      font-size: 1.5rem;
+    }
+    
+    .service-card {
+      padding: 15px;
+    }
+  
+    .service-card h2 {
+      font-size: 1.2rem;
+    }
+  
+    .service-card p {
+      font-size: 0.9rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .services-container {
+      grid-template-columns: 1fr;
+    }
+  
+    .vineyard-services {
+      padding: 10px;
+    }
+  }
+
+  
+  .service-card {
+    display: flex; /* استخدام Flexbox */
+    flex-direction: column; /* ترتيب العناصر عموديًا */
+    justify-content: space-between; /* توزيع العناصر بين المساحة المتاحة */
+    padding: 20px; /* إضافة حواف داخل البطاقة */
+    margin: 10px; /* مساحة بين البطاقات */
+    border: 1px solid #ddd; /* حدود خفيفة للبطاقة */
+    border-radius: 8px; /* زوايا مدورة للبطاقة */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* ظل خفيف للبطاقة */
+    height: 100%; /* ضمان ارتفاع ثابت للبطاقة */
+  }
+
+  .service-button {
+    text-decoration: none; /* إزالة الخط السفلي */
+    border: 2px solid transparent; /* تحديد الحدود */
+    padding: 10px 15px; /* حواف متساوية حول الزر */
+    background-color: black; /* لون خلفية الزر */
+    border-radius: 5px; /* زوايا مدورة */
+    color: white; /* لون النص */
+    cursor: pointer; /* تغيير شكل المؤشر عند التحويم */
+    transition: background-color 0.3s, transform 0.2s; /* تأثير التحويم */
+    margin-top: auto; /* دفع الزر إلى الأسفل */
+  }
+  
+  .service-button:hover {
+    background-color: #444; /* تغيير لون الخلفية عند التحويم */
+    transform: translateY(-2px); /* رفع الزر قليلاً عند التحويم */
+  }

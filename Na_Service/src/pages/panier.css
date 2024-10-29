@@ -1,0 +1,220 @@
+/* Cart.css */
+.cart-container {
+    position: relative;
+    margin-right:30px ;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+width:100%;
+background-color: rgb(248, 248, 248);
+padding: 20px;
+    max-width: 800px;
+ 
+  }
+  .success-message {
+    opacity: 0;
+    width: 400px;
+    box-shadow: 0px  0px 80px  10px rgba(0, 0, 0, 0.1);
+right: 10px;
+color: rgb(243, 243, 243);
+font-size: 30px;
+position: fixed;
+padding: 20px;
+border-radius: 10px;
+bottom: 300px;
+    background-color: rgb(0, 158, 47);
+    border: transparent solid;
+    transform: translateY(0px); /* نقل الرسالة للأسفل */
+    transition: opacity 0.5s ease, transform 0.5s ease; /* إضافة تأثيرات الانتقال */
+}
+
+.success-message.visible {
+    opacity: 1;
+    transform: translateY(20); /* العودة إلى موضعها الطبيعي */
+}
+
+
+
+  .input-section{
+    border: transparent solid;
+    background-color: rgb(248, 248, 248);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+padding: 20px;
+    width: 500px;
+  }
+
+
+.bloc_payer{
+  border:rgb(209, 209, 209) solid 1px;
+  border-radius:10px ;
+  background-color: white;
+position: relative;
+padding: 40px;
+top: 100px;
+box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+
+width: 1000px;
+  display: flex;
+  margin: auto;
+}
+
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .discount-message {
+    background-color: #e8f5e9;
+    padding: 10px;
+    border-radius: 5px;
+    color: #388e3c;
+  }
+  
+  .cart-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+  }
+  
+  .item-image {
+    width: 130px;
+    height: auto;
+    position: relative;
+    top: -20px;
+    border: transparent solid;
+    margin-right: 20px;
+  }
+  
+
+  .add-item-section {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+  }
+  
+  .add-item-section input {
+    padding: 8px;
+    font-size: 1rem;
+  }
+
+
+
+
+  .black-button {
+    background-color: rgb(0, 0, 0); 
+    width: 100%;
+    color: white; /* لون النص أبيض */
+    border: none; /* إزالة الحدود */
+    padding: 10px 20px; /* إضافة padding */
+    cursor: pointer; /* تغيير شكل المؤشر عند التمرير فوق الزر */
+    font-size: 16px; /* حجم الخط */
+    margin-top: 20px; /* إضافة بعض المساحة العلوية */
+    transition: background-color 0.3s; /* تأثير الانتقال عند التمرير */
+  }
+  
+  .send-button:hover {
+    background-color: darkgray; /* تغيير اللون عند التمرير فوق الزر */
+  }
+  .custom-input{width: 100%;}
+  
+  .item-details {
+    flex-grow: 1;
+    border:  transparent solid;
+    width: 0px;
+  }
+  .input-error {
+    border: 2px solid red; /* لون إطار أحمر عند الخطأ */
+  }
+  
+
+
+  
+  .item-price {
+    display: flex;
+    border: transparent solid;
+    width: 90px;
+    flex-direction: column;
+  }
+
+
+  .discounted-price {
+    color: #100069;
+    font-weight: bold;
+  }
+  
+  .remove-item {
+    background-color: transparent;
+    border: none;
+    width: 20px;
+    top: -10px;
+    border-radius: 50px;
+    height: 50px;
+    border: rgb(223, 223, 223) solid 5px;
+    position: relative;
+    right: -10px;
+    
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+  }
+  
+  @media (max-width: 1020px) {
+    
+.bloc_payer{
+ width: 100%;
+}
+
+  }
+
+  @media (max-width: 845px) {
+    
+    .cart-container {
+     width: 100%;
+     margin-bottom: 20px;
+     background-color: rgb(248, 248, 248);
+   
+    }
+    .bloc_payer{
+      display: block;
+     }
+     
+  .input-section{
+   width: 100%;
+  }
+
+    
+      }
+
+      .button1{
+        width: 10%;
+        
+        top: -10px;
+      }
+   
+      .quantity-controls{
+        border: transparent solid;
+        position: relative;
+        left: -148px;
+        margin-bottom: 20px;
+        width: 154px;
+        top: 20px;
+        height: 50px;
+      }
+      
+      @media (max-width: 425px) {
+      
+     
+.bloc_payer{
+ padding: 0px;
+}
+
+        
+        
+  
+      }
+          
+      
+      

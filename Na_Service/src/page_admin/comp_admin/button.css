@@ -1,0 +1,66 @@
+.contact-formv, .contact-infoaj{
+    background-color: rgb(255, 255, 255);
+  padding: 20px;
+  border: rgb(216, 216, 216) solid 1px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+ 
+}
+.contact-infoaj{
+    height: 300px;
+}
+.img_ajout{
+    border: transparent solid;
+    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 22%;
+    border-radius: 10px;
+}
+
+/* Style for the custom button label */
+.custom-file-upload {
+    display: inline-block;
+    padding: 10px 20px;
+    cursor: pointer;
+    
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text color */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    text-align: center; /* Center text */
+    font-size: 16px; /* Font size */
+    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+/* Hover effect for the button */
+.custom-file-upload:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
+
+/* Hide the default file input */
+.file-input {
+    display: none; /* Hide the input to only show the custom label */
+}
+*
+
+  .p-tree-toggler{
+    background-color: black;
+    
+  }
+  .p-treenode{
+    border: transparent solid;
+    margin-left: 00px;
+
+    margin-top: 10px;
+  }
+  .p-icon{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+   
+  }
+  .p-treenode-label{
+    font-size: 20px;
+    font-weight: 00;
+   border-bottom: rgb(112, 110, 110) solid 1px;
+  }
