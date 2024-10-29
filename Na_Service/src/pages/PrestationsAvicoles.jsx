@@ -10,7 +10,7 @@ function PrestationsAvicoles() {
 
   useEffect(() => {
     // جلب البيانات من قاعدة البيانات
-    axios.get('http://localhost:3000/prestations-avicoles') // تأكد من أن هذا هو عنوان API الخاص بك
+    axios.get('https://na-service.onrender.com/prestations-avicoles') // تأكد من أن هذا هو عنوان API الخاص بك
       .then(response => {
         console.log(response.data); // تحقق من شكل البيانات
         setImages(response.data); // تخزين البيانات في الحالة
