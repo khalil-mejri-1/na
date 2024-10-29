@@ -12,7 +12,7 @@ function Taille_des_vignes() {
 
   useEffect(() => {
     // جلب البيانات من قاعدة البيانات
-    axios.get('http://localhost:3000/taille-des-vignes') // تأكد من أن هذا هو عنوان API الخاص بك
+    axios.get('https://na-service.onrender.com/taille-des-vignes') // تأكد من أن هذا هو عنوان API الخاص بك
       .then(response => {
         setImages(response.data); // تخزين البيانات في الحالة
       })
