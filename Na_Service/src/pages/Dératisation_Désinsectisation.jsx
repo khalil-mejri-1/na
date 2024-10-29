@@ -10,7 +10,7 @@ function Dératisation_Désinsectisation() {
 
   useEffect(() => {
     // جلب البيانات من API
-    axios.get('http://localhost:3000/deratisation-desinsectisation') // تأكد من أن هذا هو عنوان API الصحيح
+    axios.get('https://na-service.onrender.com/deratisation-desinsectisation') // تأكد من أن هذا هو عنوان API الصحيح
       .then(response => {
         setImages(response.data); // تخزين البيانات في الحالة
       })
