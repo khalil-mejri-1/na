@@ -10,7 +10,7 @@ function Travaux_mecaniques() {
 
   useEffect(() => {
     // جلب البيانات من API
-    axios.get('http://localhost:3000/travaux-mecaniques') // تأكد من أن هذا هو عنوان API الصحيح
+    axios.get('https://na-service.onrender.com/travaux-mecaniques') // تأكد من أن هذا هو عنوان API الصحيح
       .then(response => {
         setImages(response.data); // تخزين البيانات في الحالة
       })
